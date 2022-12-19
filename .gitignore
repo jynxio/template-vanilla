@@ -1,6 +1,10 @@
-# node
+# Development
 node_modules
 package-lock.json
 
-# mac
+# Production
+build
+dist
+
+# MacOS
 .DS_Store
